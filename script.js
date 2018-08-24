@@ -61,8 +61,6 @@ var ObCarSelector = {
 
     var blockOptions = $(options);
 
-    console.log(select);
-
     if(filter) {
       for (var property in filter) {
 
